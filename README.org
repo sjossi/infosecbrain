@@ -4,6 +4,19 @@ Since I can't remember all the things that I read online and all the links that 
 
 * Resources
 ** Dump
-   Just copy-pasted from all the different sources that I used to dump links in.
+	Just copy-pasted from all the different sources that I used to dump links in.
 ** Trainings
 ** Tools
+** Reading
+*** Lists
+- Hack-with-Github/Awesome-Hacking :: https://github.com/Hack-with-Github/Awesome-Hacking
+- Awesome Fuzzing :: https://github.com/secfigo/Awesome-Fuzzing
+- CTF Field Guide :: http://trailofbits.github.io/ctf/
+*** Books
+*** Articles
+- Azeria Process and Memory corruptions :: https://azeria-labs.com/process-memory-and-memory-corruption/
+- RE Guide for beginners :: https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242
+*** eZines
+- PoC || GTFO :: https://www.alchemistowl.org/pocorgtfo/
+*** News
+- NewsNow Security :: http://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security
