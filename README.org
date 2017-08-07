@@ -1,0 +1,9 @@
+* infosecbrain
+** Description
+Since I can't remember all the things that I read online and all the links that I get I need an external brain. Usually they go in whatever task-manager or notepad I have open at the time, but that's not manageable or helpful anymore. It's mostly infosec-related, so maybe someone else can use it.
+
+* Resources
+** Dump
+   Just copy-pasted from all the different sources that I used to dump links in.
+** Trainings
+** Tools
