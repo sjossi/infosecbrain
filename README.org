@@ -13,6 +13,7 @@ Since I can't remember all the things that I read online and all the links that 
 - Awesome Fuzzing :: https://github.com/secfigo/Awesome-Fuzzing
 - CTF Field Guide :: http://trailofbits.github.io/ctf/
 *** Books
+- AI/ML for InfoSec Professionals (Cylance) :: http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf
 *** Articles
 - Azeria Process and Memory corruptions :: https://azeria-labs.com/process-memory-and-memory-corruption/
 - RE Guide for beginners :: https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242
