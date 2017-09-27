@@ -5,6 +5,13 @@ Since I can't remember all the things that I read online and all the links that 
 * Resources
 ** Dump
 	Just copy-pasted from all the different sources that I used to dump links in.
+** CTFs and challenges
+*** TODO OverTheWire
+*** Smashthestack
+    http://smashthestack.org/
+*** Crypto
+**** Cryptopal
+     http://cryptopals.com/
 ** Trainings
 ** Tools
 ** Reading
@@ -21,3 +28,5 @@ Since I can't remember all the things that I read online and all the links that 
 - PoC || GTFO :: https://www.alchemistowl.org/pocorgtfo/
 *** News
 - NewsNow Security :: http://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security
+*** Videos
+-NAND to Tetris :: https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1
