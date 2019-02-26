@@ -23,6 +23,10 @@ Since I can't remember all the things that I read online and all the links that 
 - Hack-with-Github/Awesome-Hacking :: https://github.com/Hack-with-Github/Awesome-Hacking
 - Awesome Fuzzing :: https://github.com/secfigo/Awesome-Fuzzing
 - CTF Field Guide :: http://trailofbits.github.io/ctf/
+*** Cheatsheets
+- OWASP Cheatsheets :: https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
+- Living off the Land Windows :: https://lolbas-project.github.io/#
+- Abusable binaries on Linux :: https://gtfobins.github.io
 *** Books
 - AI/ML for InfoSec Professionals (Cylance) :: http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf
 *** Articles
