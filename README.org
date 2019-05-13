@@ -1,3 +1,4 @@
+
 * infosecbrain
 ** Description
 Since I can't remember all the things that I read online and all the links that I get I need an external brain. Usually they go in whatever task-manager or notepad I have open at the time, but that's not manageable or helpful anymore. It's mostly infosec-related, so maybe someone else can use it.
@@ -25,17 +26,23 @@ Since I can't remember all the things that I read online and all the links that 
 - Galileo Web Application Audit Framework :: https://github.com/m4ll0k/Galileo
 *** Binary
 - radare2 :: https://www.radare.org/r/
-** Reading
+
+** Guides
 *** Lists
 - Hack-with-Github/Awesome-Hacking :: https://github.com/Hack-with-Github/Awesome-Hacking
 - Awesome Fuzzing :: https://github.com/secfigo/Awesome-Fuzzing
 - CTF Field Guide :: http://trailofbits.github.io/ctf/
+
 *** Cheatsheets
 - OWASP Cheatsheets :: https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
 - Living off the Land Windows :: https://lolbas-project.github.io/#
 - Abusable binaries on Linux :: https://gtfobins.github.io
+
 *** Books
 - AI/ML for InfoSec Professionals (Cylance) :: http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf
+
+**** Binary Exploitation
+- Practical Binary Analysis :: https://nostarch.com/binaryanalysis
 
 *** Articles
 
