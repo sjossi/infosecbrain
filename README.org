@@ -9,8 +9,8 @@ Since I can't remember all the things that I read online and all the links that 
 
 ** CTFs and challenges
 *** Online
-- [OverTheWire](http://overthewire.org/)
-- [Smashthestack](http://smashthestack.org/)
+- OverTheWire :: http://overthewire.org/
+- Smashthestack](http://smashthestack.org/
 - Capture the Ether :: https://capturetheether.com/
 - RootMe :: https://www.root-me.org/?lang=en
      
@@ -36,12 +36,25 @@ Since I can't remember all the things that I read online and all the links that 
 - Abusable binaries on Linux :: https://gtfobins.github.io
 *** Books
 - AI/ML for InfoSec Professionals (Cylance) :: http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf
+
 *** Articles
-- Azeria Process and Memory corruptions :: https://azeria-labs.com/process-memory-and-memory-corruption/
+
+**** Reverse Engineering
 - RE Guide for beginners :: https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242
+
+**** Binary Exploitation
+- Azeria Process and Memory corruptions :: https://azeria-labs.com/process-memory-and-memory-corruption/
+
+**** Browser Exploits
+- Compile your own Type Confusions :: http://phrack.org/papers/jit_exploitation.html
+
 *** eZines
 - PoC || GTFO :: https://www.alchemistowl.org/pocorgtfo/
+- Phrack :: http://phrack.org/index.html
+
 *** News
 - NewsNow Security :: http://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security
+- r/netsec :: https://www.reddit.com/r/netsec/
+
 *** Videos
 -NAND to Tetris :: https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1
