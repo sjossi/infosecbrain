@@ -15,6 +15,7 @@ Since I can't remember all the things that I read online and all the links that 
 - Capture the Ether :: https://capturetheether.com/
 - RootMe :: https://www.root-me.org/?lang=en
 - pwnable.kr :: https://pwnable.kr/
+- reversing.kr :: http://reversing.kr/challenge.php
      
 *** Binary
 - Ropemporium :: https://ropemporium.com/
