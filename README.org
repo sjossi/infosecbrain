@@ -6,7 +6,7 @@ Since I can't remember all the things that I read online and all the links that 
 * Resources
 ** Dump
 	Just copy-pasted from all the different sources that I used to dump links in.
-*** clean for now
+...
 
 ** CTFs and challenges
 *** Online
@@ -55,6 +55,7 @@ Since I can't remember all the things that I read online and all the links that 
 
 **** Binary Exploitation
 - Azeria Process and Memory corruptions :: https://azeria-labs.com/process-memory-and-memory-corruption/
+- LSD-Planet :: http://lsd-pl.net/
 
 **** Browser Exploits
 - Compile your own Type Confusions :: http://phrack.org/papers/jit_exploitation.html
